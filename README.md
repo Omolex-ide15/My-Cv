@@ -6,4 +6,3 @@ my contacts .
 My experience .
 my projects 
 Here are some of the links to my projects:
-https://omolex-ide15.github.io/Samex-tech-company-/
